@@ -53,6 +53,7 @@ This project is live on netlify platform. Click below link to run directly
 - [Manoj Kumar](https://github.com/282Manoj)
 - [Rahul Singh](https://github.com/rahulajay34)
 - [Vaibhav Firke](https://github.com/vaibhavfirke)
+- [Mregendra Chaudhury](https://github.com/MrAgEnDraCHaUdHaRy)
 
 
 ## Feedback
